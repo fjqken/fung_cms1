@@ -1,0 +1,23 @@
+{
+  "id": "3476934",
+  "name": "fung_cms",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "30135950",
+      "name": "toplion图标库 _导航管理",
+      "font_class": "a-topliontubiaoku_daohangguanli",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "30135969",
+      "name": "toplion图标库 _客户关系",
+      "font_class": "a-topliontubiaoku_kehuguanxi",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    }
+  ]
+}
